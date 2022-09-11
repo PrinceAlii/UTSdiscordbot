@@ -1,0 +1,1 @@
+A discord bot I made in 2021 using discord.js (a NodeJS package), uploaded here to github for the purposes of my UTS Edge application

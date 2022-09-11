@@ -1,0 +1,10 @@
+{
+  "prefix": "g.",
+  "ownerID": "230865495610490880",
+  "bottoken": "private bot token",
+  "mysqlhost": "localhost",
+  "mysqluser": "mysql username",
+  "mysqlpass": "mysql password",
+  "clkey": "cleverbot key"
+
+}

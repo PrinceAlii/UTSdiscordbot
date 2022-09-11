@@ -1,0 +1,2 @@
+node self.js
+PAUSE
